@@ -1,0 +1,195 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #cca9dd;
+	background-image: url(paletas/fondo.jpg);
+	background-size: 100%;
+	background-repeat: repeat;
+	background-color: #cca9dd;
+	 background-size: 100%;
+	 overflow: visible;
+
+	  ;
+	} 
+	.titulo{
+		font-family: 'Teko', sans-serif;
+		font-size: 100px;
+		justify-content: space-between;
+		float: left;
+		margin: 10px;
+		text-align: right;
+		width: 50%;
+		margin-top: 5%;
+	
+	}
+	.img-logo{
+		
+		width: 300px;
+		height: 220px;
+		margin: 10px;
+		text-align: right;
+	}
+
+	.encabezado{
+		width: 100%;
+	}
+ }
+	   nav{
+   	background-color: c299dc;
+   	padding: 20px;
+   	text-align: center;
+   	
+   }
+ 
+   .barra1{
+        display: inline-block ;
+		background-color: #cca9dd;
+		color: #000000;
+		padding: 10px 130px;
+		border-radius: 70px;
+		text-decoration: none;
+		font-family: 'raleway',sans-serif;
+		font-size: 6;
+		margin-left: 1%;
+
+
+		 }
+     .barra1:hover{
+     	background-color: #e1cbee;
+     }
+
+.princ{
+	position: relative;
+    display: inline-block;
+    text-align: center;
+}
+    .imgprincipal{
+    	width: 1410px ;
+    	height: 500px;
+    	margin-left: 50px;
+    	margin-top: 30px;
+    }
+    .textoencima{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'teko',sans-serif;
+    font-size: 50px;
+    color: #ffffff;
+    
+}
+.productos{
+width: 100%;
+margin-top: 30px;
+
+}
+.reigen{
+    float: left;
+    position: relative;
+    width: 30%;
+    height: auto;
+    margin-left: 150px;
+	
+}
+.reigen img {
+     width: 500px;
+	}
+
+.marin{
+	
+    float: left;
+    position: relative;
+    margin-left: 240px;
+}
+.marin img{
+	width: 500px;
+	height: 500px;
+}
+.letras{
+	font-family:'raleway', sans-serif;
+
+}
+.letras2{
+	font-family: 'raleway', sans-serif;
+    
+} 
+.botoncomprar{
+	padding: 4px 8px;
+	background-color: #6600a1;
+	color: #ffffff;
+	font-family: 'raleway', sans-serif;
+	text-decoration: none;
+	font-family: 'Gantari', sans-serif;
+     top: 5px;
+
+} 
+.botoncomprar:hover{
+	
+     	background-color: #e1cbee;
+}
+
+.productos2{
+width: 100%;
+margin-top: 30px;
+}
+
+.ashyeji{
+    float: left;
+    position: relative;
+    width: 30%;
+    height: auto;
+    margin-left: 150px;
+	
+}
+
+.ashyeji img {
+     width: 500px;
+	}
+
+.letras3{
+	font-family: 'raleway', sans-serif;
+}
+.botoncomprar2{
+padding: 4px 8px;
+	background-color: #6600a1;
+	color: #ffffff;
+	font-family: 'raleway', sans-serif;
+	text-decoration: none;
+	font-family: 'Gantari', sans-serif;
+     top: 5px;
+}
+.botoncomprar2:hover{
+	background-color: #e1cbee;
+}
+
+table{
+	width: 90%;
+	height: 30px;
+	border-collapse: separate;
+	border-spacing: 19px;
+	
+}
+
+td img{
+	width: 350px;
+
+
+}
+td{
+	font-family: 'raleway', sans-serif;
+}
+footer{
+	width: 100%;
+	background-color: 
+	#cca9dd;
+	padding: 10px 500px;
+}
+.nosotros{
+	margin: 20px;
+}
+   
+}}
